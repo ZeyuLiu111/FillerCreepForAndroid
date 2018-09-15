@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\FillerCreepForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\matter.png",
+        "source": "D:\\FillerCreepForAndroid-master\\app\\src\\main\\res\\drawable-ldpi\\matter.png"
+    },
+    {
+        "merged": "D:\\FillerCreepForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\dark_energy.png",
+        "source": "D:\\FillerCreepForAndroid-master\\app\\src\\main\\res\\drawable-ldpi\\dark_energy.png"
+    },
+    {
+        "merged": "D:\\FillerCreepForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "D:\\FillerCreepForAndroid-master\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FillerCreepForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\energy.png",
+        "source": "D:\\FillerCreepForAndroid-master\\app\\src\\main\\res\\drawable-ldpi\\energy.png"
+    },
+    {
+        "merged": "D:\\FillerCreepForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\dark_matter.png",
+        "source": "D:\\FillerCreepForAndroid-master\\app\\src\\main\\res\\drawable-ldpi\\dark_matter.png"
+    }
+]
